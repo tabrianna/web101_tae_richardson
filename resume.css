@@ -28,6 +28,8 @@ body {
    
     display: grid;
     grid-template-rows: 10% 10% 25% 30% 25%;
+    background-color: black;
+    color: white;
 }
 .image {
     text-align: center;
